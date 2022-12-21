@@ -1,0 +1,6 @@
+flask 
+pandas
+transformers==3.0.2
+torch
+vaderSentiment==3.3.2
+sentence_transformers==0.3.5
